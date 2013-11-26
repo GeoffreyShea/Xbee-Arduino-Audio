@@ -7,3 +7,5 @@ with WaveShields and Xbees from a coordinator running Processing.
 The Xbees are configured with API mode.
 
 The Arduino sketch requires libraries in the Arduino > Libraries folder.
+
+This will be extended with GPS geolocation awareness: https://github.com/GeoffreyShea/Processing-PHP-GPS-PhoneGap
